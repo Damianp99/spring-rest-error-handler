@@ -6,6 +6,7 @@ target/
 .mvn
 mvnw
 mvnw.*
+.gitattributes
 
 ### STS ###
 .apt_generated
